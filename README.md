@@ -6,8 +6,6 @@ I'm Swapnil</h1>
 
 - 📫 How to reach me: **swapnilbhatta21@gmail.com**
 
-- ⚡ Fun fact: **My primary language is Ctrl + Z**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
